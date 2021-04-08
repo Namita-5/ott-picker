@@ -67,5 +67,5 @@ language_name = st.sidebar.selectbox(
 
 data.drop(['ID','Type','Country','Language'], axis=1, inplace = True)
 movie_name=st.write(data[data['Genres'].str.contains(genre_name)])
-movie_name['Genres']=movie_name['Genres'].str.replace(',',' ')
+data['Genres']=data['Genres'].str.replace(',',' ')
 
