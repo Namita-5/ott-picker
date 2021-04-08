@@ -18,7 +18,7 @@ data= pd.read_csv("ott.csv")
 data["Genres"].fillna("Any", inplace = True) 
 data["Language"].fillna("Check yourself", inplace = True) 
 data["Netflix"].replace({0: "NO", 1: "Yes",1.01:"Yes"}, inplace=True)
-data["Hulu","Prime Video","Disney+"].replace({0: "NO", 1: "Yes"}, inplace=True)
+data["Hulu"].replace({0: "NO", 1: "Yes"}, inplace=True)
 data["Prime Video"].replace({0: "NO", 1: "Yes"}, inplace=True)
 data["Disney+"].replace({0: "NO", 1: "Yes"}, inplace=True)
 
