@@ -78,7 +78,7 @@ lang.drop(['ID','Type','Country','Directors','Language','Genres'], axis=1, inpla
 
 ott_name=st.write(
     'Select movie',
-    (lang.Title)
+    (lang)
    
 )
 
