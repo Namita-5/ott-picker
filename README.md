@@ -14,4 +14,6 @@ Link to app - https://share.streamlit.io/namita-5/ott-picker/main/OTT-Picker.py
 
 Link to PowerBI dashboard - https://drive.google.com/file/d/14klDiesvAGvUzAFkIViSv4Aeu2UACoAm/view?usp=sharing
 
+Link to  PPT - https://drive.google.com/file/d/1Xd161CZLy3qerBSYIFSWD98vWXecI-Fe/view?usp=sharing
+
 
