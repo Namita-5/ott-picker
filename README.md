@@ -10,6 +10,8 @@ Aim of this project is to help Ajay and Reema through data-oriented approach.
 
 
 Link to app - https://share.streamlit.io/namita-5/ott-picker/main/OTT-Picker.py
-Link to dashboard - https://drive.google.com/file/d/14klDiesvAGvUzAFkIViSv4Aeu2UACoAm/view?usp=sharing
+
+
+Link to PowerBI dashboard - https://drive.google.com/file/d/14klDiesvAGvUzAFkIViSv4Aeu2UACoAm/view?usp=sharing
 
 
